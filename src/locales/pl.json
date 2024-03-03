@@ -1,0 +1,21 @@
+{
+  "general": {
+    "title": "General",
+    "pageNotFound": "Page not found"
+  },
+  "page-not-found": {
+    "404Error": "404 Error",
+    "title": "Page not found",
+    "description": "Sorry, we couldn’t find the page you’re looking for.",
+    "backHome": "Go back to the homepage"
+  },
+  "sign-in": {
+    "title": "Sign in to your account"
+  },
+  "sign-up": {
+    "title": "Sign up for an account"
+  },
+  "validation": {
+    "fieldRequired": "This field is required"
+  }
+}
